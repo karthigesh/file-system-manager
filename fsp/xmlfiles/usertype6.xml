@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<usertype>
+	  <name>photographer</name>
+	  <customizeduser>  
+		  <upload_photo>1</upload_photo>
+		  <approve_upload>1</approve_upload>
+		  <edit_photo>0</edit_photo>
+		  <publish>1</publish>
+		  <approve_publication>1</approve_publication>
+		  <createmodifyfolder>1</createmodifyfolder>
+		  <adduser>1</adduser>
+		  <clearance_level>0</clearance_level>
+		  <privilege_level>55</privilege_level>
+		  <approve_download>1</approve_download>
+	  </customizeduser>
+</usertype>
